@@ -1,0 +1,333 @@
+{
+    "sport":{
+        "status": "ok",
+        "totalResults": 60,
+        "articles": [
+            {
+                "source": {
+                    "id": "the-washington-post",
+                    "name": "The Washington Post"
+                },
+                "author": "Jesse Dougherty",
+                "title": "UNLV quarterback leaves program amid dispute over NIL payments - The Washington Post",
+                "description": "Matthew Sluka announced on X that he would use a redshirt year after “certain representations ... were not upheld.”",
+                "url": "https://www.washingtonpost.com/sports/2024/09/25/matthew-sluka-unlv-nil-dispute/",
+                "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UOMNTE7BEDPUPA7QJRRM3VUS6E_size-normalized.jpg&w=1440",
+                "publishedAt": "2024-09-26T03:16:12Z",
+                "content": "The UNLV football team 3-0 and an early contender to represent the Group of Five conferences in the College Football Playoff just lost its starting quarterback. But Matthew Sluka didnt injure his kne… [+5120 chars]"
+            },
+            {
+                "source": {
+                    "id": "espn",
+                    "name": "ESPN"
+                },
+                "author": "Pete Thamel",
+                "title": "Trojans' Alexander to sit out rest of '24, redshirt - ESPN",
+                "description": "USC DT Bear Alexander, who had expressed displeasure with his playing time after three games, is taking a redshirt season in 2024 and will have two years remaining.",
+                "url": "https://www.espn.com/college-football/story/_/id/41446691/usc-bear-alexander-unhappy-playing-redshirt",
+                "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0926%2Fr1391900_1296x729_16%2D9.jpg",
+                "publishedAt": "2024-09-26T02:44:00Z",
+                "content": "USC defensive tackle Bear Alexander, who had expressed displeasure with his playing time, is taking a redshirt season in 2024.\r\nTony Jones, who Alexander calls his father, confirmed to ESPN that Alex… [+1792 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Yahoo Entertainment"
+                },
+                "author": "Ryan Young",
+                "title": "WNBA playoffs: Sun fend off Caitlin Clark, Fever to reach semifinals and end her rookie season - Yahoo Sports",
+                "description": "Caitlin Clark's rookie campaign in the WNBA is now over.",
+                "url": "https://sports.yahoo.com/live/wnba-playoffs-sun-fend-off-caitlin-clark-fever-to-reach-semifinals-and-end-her-rookie-season-222937842.html",
+                "urlToImage": "https://s.yimg.com/ny/api/res/1.2/IZYNpbC9EvuENlia6oex2Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03Mzc-/https://s.yimg.com/os/creatr-uploaded-images/2024-09/e3581bb0-7ba4-11ef-8bad-8a76ff3e87fa",
+                "publishedAt": "2024-09-26T02:22:00Z",
+                "content": "Caitlin Clark's rookie campaign in the WNBA is now over. (Joe Buglewicz/Getty Images)\r\nCaitlin Clarks rookie season is now over.\r\nAlyssa Thomas and the Connecticut Sun closed out their opening-round … [+5486 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "NBC Southern California"
+                },
+                "author": "Jonathan Lloyd",
+                "title": "Shohei Ohtani's 50-50 home run ball is up for auction. Here's the starting bid - NBC Los Angeles",
+                "description": "How much is Shohei Ohtani's historic 50-50 home run ball worth? The baseball will be up for auction with opening bids starting well into six figures.",
+                "url": "https://www.nbclosangeles.com/news/sports/shohei-ohtani-50-50-home-run-ball-auction/3519773/",
+                "urlToImage": "https://media.nbclosangeles.com/2024/09/baseball-ohtani-50-50-1.png?resize=1200%2C675&quality=85&strip=all",
+                "publishedAt": "2024-09-26T02:14:33Z",
+                "content": "<ul><li>The ball Dodger Shohei Ohtani hit to become the first MLB player with 50 home runs and 50 stolen bases in a season is going up for auction. </li><li>Bids start at $500,000 with an option to p… [+2149 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "CBS Sports"
+                },
+                "author": "",
+                "title": "Pete Prisco's Week 4 NFL picks: Ravens cool off unbeaten Bills, Packers hand Vikings first loss - CBS Sports",
+                "description": "Pete Prisco reveals all his Week 4 picks, including the Bengals' must-win in Carolina",
+                "url": "https://www.cbssports.com/nfl/news/pete-priscos-week-4-nfl-picks-ravens-cool-off-unbeaten-bills-packers-hand-vikings-first-loss/",
+                "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/09/22/f790a831-5c4e-43bc-bfde-282ee87023b2/thumbnail/1200x675/2e173a0f41c416f0fd39437c28c03187/usatsi-24301560-lamar-jackson-ravens-qb-pregame-2024-1400.jpg",
+                "publishedAt": "2024-09-26T00:54:00Z",
+                "content": "Is picking NFL games tough this year or what? Not just against the spread either.\r\nI was 7-9 straight-up last week after all the uncertainty of Week 3 that saw upsets galore and survivor pools get bl… [+7456 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "MLB.com"
+                },
+                "author": "MLB.com",
+                "title": "Mets-Braves Wednesday, Thursday games rescheduled for Monday DH - MLB.com",
+                "description": null,
+                "url": "https://www.mlb.com/news/mets-braves-september-25-26-games-rescheduled",
+                "urlToImage": null,
+                "publishedAt": "2024-09-26T00:22:30Z",
+                "content": null
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "YouTube"
+                },
+                "author": null,
+                "title": "Security gets involved with a fan pointed out by Caitlin Clark | WNBA on ESPN - ESPN",
+                "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+                "url": "https://www.youtube.com/",
+                "urlToImage": "https://www.youtube.com/img/desktop/yt_1200.png",
+                "publishedAt": "2024-09-25T23:57:55Z",
+                "content": null
+            },
+            {
+                "source": {
+                    "id": "usa-today",
+                    "name": "USA Today"
+                },
+                "author": "Cameron DaSilva",
+                "title": "Rams injury report: LA in much better shape than Bears - Rams Wire",
+                "description": "The Rams only have three players on their injury report to start the week compared to 10 players for the Bears",
+                "url": "https://theramswire.usatoday.com/2024/09/25/rams-bears-injury-report-week-4-kupp-allen/",
+                "urlToImage": "https://theramswire.usatoday.com/wp-content/uploads/sites/64/2024/09/IR_LAR_W4_6ce677.png?w=1024&h=576&crop=1",
+                "publishedAt": "2024-09-25T23:48:00Z",
+                "content": "For the first time this season, the Los Angeles Rams came out of a game without any major injuries. It might not seem significant but for a team that’s lost several starters already, it’s encouraging… [+769 chars]"
+            }
+        ]
+    },
+
+    "health":{
+        "status": "ok",
+        "totalResults": 68,
+        "articles": [
+            {
+                "source": {
+                    "id": null,
+                    "name": "SciTechDaily"
+                },
+                "author": "SciTechDaily",
+                "title": "Silent Spread: Alarm Raised Over Failing Bird Flu Control Strategies - SciTechDaily",
+                "description": null,
+                "url": "https://scitechdaily.com/silent-spread-alarm-raised-over-failing-bird-flu-control-strategies/",
+                "urlToImage": null,
+                "publishedAt": "2024-09-26T02:37:56Z",
+                "content": null
+            },
+            {
+                "source": {
+                    "id": "the-times-of-india",
+                    "name": "The Times of India"
+                },
+                "author": "TOI Lifestyle Desk",
+                "title": "What happens to women when there is magnesium deficiency in the body - The Times of India",
+                "description": "Magnesium is vital for women's health, influencing hormone regulation, bone density, and cardiovascular function. Deficiency can result in muscle cram",
+                "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/what-happens-to-women-when-there-is-magnesium-deficiency-in-the-body/articleshow/113629760.cms",
+                "urlToImage": "https://static.toiimg.com/thumb/msid-113629734,width-1070,height-580,imgsize-406435,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+                "publishedAt": "2024-09-26T01:52:00Z",
+                "content": null
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "KOAT New Mexico"
+                },
+                "author": "Nick Catlin",
+                "title": "The health impacts of ultra-processed foods - KOAT New Mexico",
+                "description": "Our health expert said this type of food makes up about 60% of the average American diet.",
+                "url": "https://www.koat.com/article/health-impact-ultra-processed-foods/62377397",
+                "urlToImage": "https://kubrick.htvapps.com/vidthumb/e93cb497-9d60-447a-804b-28c577416345/cccd37a2-8c4d-4763-8dbc-5fa31f7ae9d2.jpg?crop=0.779xw:0.777xh;0.221xw,0&resize=1200:*",
+                "publishedAt": "2024-09-26T00:10:00Z",
+                "content": "When it comes to dieting, ultra-processed foods are often associated with having a negative impact on our health.\r\nThe latest health news: Health Beat on Action 7 News\r\nDr. Abinash Achrekar, KOAT and… [+1225 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "ScienceAlert"
+                },
+                "author": "ScienceAlert",
+                "title": "These 15 Factors Are Linked to Early Dementia Risk, a Major Study Found - ScienceAlert",
+                "description": null,
+                "url": "https://www.sciencealert.com/these-15-factors-are-linked-to-early-dementia-risk-a-major-study-found",
+                "urlToImage": null,
+                "publishedAt": "2024-09-25T23:38:52Z",
+                "content": null
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "[Removed]"
+                },
+                "author": null,
+                "title": "[Removed]",
+                "description": "[Removed]",
+                "url": "https://removed.com",
+                "urlToImage": null,
+                "publishedAt": "2024-09-25T23:01:00Z",
+                "content": "[Removed]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "YouTube"
+                },
+                "author": null,
+                "title": "Astronomers rethink the structure of the universe | September 26, 2024 - CNN 10",
+                "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+                "url": "https://www.youtube.com/",
+                "urlToImage": "https://www.youtube.com/img/desktop/yt_1200.png",
+                "publishedAt": "2024-09-25T23:00:34Z",
+                "content": null
+            },
+            {
+                "source": {
+                    "id": "cbs-news",
+                    "name": "CBS News"
+                },
+                "author": null,
+                "title": "In chronic pain, this teenager \"could barely do anything.\" Insurer wouldn't cover surgery. - CBS News",
+                "description": "After a family arranged for sports hernia surgery for their injured son, the insurance company declined to cover the cost. Here's what happened next.",
+                "url": "https://www.cbsnews.com/news/health-care-costs-insurance-surgery-medical-bills/",
+                "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/06/04/aed9192c-10fa-4794-ab45-0b065cc4cb95/thumbnail/1200x630/310c6e0ccc8591e41670b08f89d9e8c9/gettyimages-1266483162.jpg?v=05e1d8b62a2ebbf0c759b67223fa87f8",
+                "publishedAt": "2024-09-25T22:58:19Z",
+                "content": "When Preston Nafz was 12, he asked his dad for permission to play lacrosse.\r\n\"First practice, he came back, he said, 'Dad, I love it,'\" recalled his father, Lothar Nafz, of Hoover, Alabama. \"He lives… [+5914 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Suntimes.com"
+                },
+                "author": "Kaitlin Washburn",
+                "title": "Woman with Stage 4 colon cancer receives a double-lung transplant at Northwestern, becomes 'part of medical history' - Chicago Sun-Times",
+                "description": "After facing colorectal cancer for nearly eight years, Mandy Wilk got a double-lung transplant in June at Northwestern. She has no signs of cancer in her body and has not needed further cancer treatments.",
+                "url": "https://chicago.suntimes.com/health/2024/09/25/patient-with-stage-4-colon-cancer-receives-a-double-lung-transplant-at-northwestern-becomes-part-of-medical-history",
+                "urlToImage": "https://cst.brightspotcdn.com/dims4/default/d69f4d6/2147483647/strip/true/crop/1024x585+0+49/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F61%2F2d%2F325bf0054a9ba933739cee6e79af%2Fmandy-wilk.jpg",
+                "publishedAt": "2024-09-25T22:08:00Z",
+                "content": "After her colon cancer came back, Mandy Wilk had few options left to stay alive.\r\nThe disease had already spread to her liver when she was diagnosed with Stage 4 colorectal cancer in 2017. She tried … [+3205 chars]"
+            }
+        ]
+    },
+    "technology":{
+        "status": "ok",
+        "totalResults": 18,
+        "articles": [
+            {
+                "source": {
+                    "id": "associated-press",
+                    "name": "Associated Press"
+                },
+                "author": "BARBARA ORTUTAY",
+                "title": "Meta unveils cheaper VR headset, AI updates and shows off prototype for holographic AR glasses - The Associated Press",
+                "description": "Meta has unveiled updates to the company’s virtual reality headset and Ray Ban smart glasses along as it tries to demonstrate its artificial intelligence prowess and the next generation of computing platforms beyond smartphones and computers. CEO Mark Zuckerb…",
+                "url": "https://apnews.com/article/meta-connect-zuckerberg-quest-ai-orion-dc8228049dea6a00b0f818ddb35f0c31",
+                "urlToImage": "https://dims.apnews.com/dims4/default/1306fcf/2147483647/strip/true/crop/2434x1369+0+127/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F81%2Ff4%2Fd4405b232a70fa933e6b7c3ff709%2Fad0f4266e4eb4a6c80a75d7f62c452db",
+                "publishedAt": "2024-09-26T00:03:00Z",
+                "content": "MENLO PARK, California (AP) Meta unveiled updates to the companys virtual reality headset and Ray Ban smart glasses on Wednesday as it tries to demonstrate its artificial intelligence prowess and the… [+4856 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Kotaku"
+                },
+                "author": "Ethan Gach",
+                "title": "We Still Don't Know What Time PlayStation 30th Anniversary Pre-Orders Start, Here's How To Prepare - Kotaku",
+                "description": "Here are some tips for snagging a retro-themed PS5 before scalpers do",
+                "url": "https://kotaku.com/ps5-pro-30th-anniversary-pre-order-time-price-date-1851657733",
+                "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/376d9b781c10759b4115f8b901ab5534.jpg",
+                "publishedAt": "2024-09-25T20:15:00Z",
+                "content": "The PlayStation 30th Anniversary Collection looks great. A lot of people seem to think so. And when retro nostalgia collides with rabid console fandom, things tend to sell out quickly. Unfortunately,… [+3865 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "9to5Mac"
+                },
+                "author": "Chance Miller",
+                "title": "Apple October event: What to expect - 9to5Mac",
+                "description": "Apple just held its special event to unveil the iPhone 16 and iPhone 16 Pro a few weeks ago, but...",
+                "url": "https://9to5mac.com/2024/09/25/apple-october-event-what-to-expect-2/",
+                "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/09/tim-cook-apple-event-oct.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+                "publishedAt": "2024-09-25T17:55:00Z",
+                "content": "Apple just held its special event to unveil the iPhone 16 and iPhone 16 Pro a few weeks ago, but theres still more to come this fall. As we detailed last week, Apple is set to unveil new M4 Macs and … [+2379 chars]"
+            },
+            {
+                "source": {
+                    "id": "ign",
+                    "name": "IGN"
+                },
+                "author": "Kat Bailey",
+                "title": "Assassin's Creed Shadows' Delay Puts It in Competition With Ghost of Yotei, but Ubisoft CEO Says There's Room for Both - IGN",
+                "description": "Following Assassin's Creed Shadows' delay into 2025, Ubisoft CEO Yves Guillemot said there's plenty of room for two open world action-adventure games set in feudal Japan.",
+                "url": "https://www.ign.com/articles/assassins-creed-shadows-delay-ghost-of-yotei-ubisoft",
+                "urlToImage": "https://assets-prd.ignimgs.com/2024/09/25/ghostofyotei-ac-shadows-blogroll-1727284081481.jpg?width=1280",
+                "publishedAt": "2024-09-25T17:46:29Z",
+                "content": "With Assassin's Creed Shadows getting delayed into 2025, it is now in direct competition with Ghost of Yotei, the Ghost of Tsushima sequel announced during yesterday's Sony State of Play.\r\nThe move b… [+1795 chars]"
+            },
+            {
+                "source": {
+                    "id": "techcrunch",
+                    "name": "TechCrunch"
+                },
+                "author": "Kyle Wiggers",
+                "title": "Meta AI gets lip-synced translations and celebrity voices, like Judi Dench and John Cena - TechCrunch",
+                "description": "Meta is bringing a voice mode to its AI assistant, Meta AI, along with an Meta AI-powered translation feature for Instagram Reels.",
+                "url": "https://techcrunch.com/2024/09/25/meta-ai-gets-lip-synced-translations-and-celebrity-voices-like-judi-dench-and-john-cena/",
+                "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/04/Screenshot-2024-04-19-at-1.32.04-PM.jpg?w=785",
+                "publishedAt": "2024-09-25T17:28:11Z",
+                "content": "Meta’s AI assistant, Meta AI, is getting a new voice mode of sorts.\r\nAt the Meta Connect 2024 developer conference in Menlo Park on Wednesday morning, Meta announced that Meta AI can now respond back… [+1729 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Android Authority"
+                },
+                "author": null,
+                "title": "2 years later, I've ditched my Pixel Buds Pro... for the Pixel Buds Pro 2 - Android Authority",
+                "description": "The original Pixel Buds Pro were some of my favorite earbuds ever. Here's how the new Pixel Buds Pro 2 managed to perfect that formula even more.",
+                "url": "https://www.androidauthority.com/google-pixel-buds-pro-2-review-3484813/",
+                "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2024/09/google-pixel-buds-pro-2-in-case-next-to-pixel-9-pro-2.jpg",
+                "publishedAt": "2024-09-25T17:27:13Z",
+                "content": "When it comes to in-ear Bluetooth buds, Im a very picky person. Most models are too large, cause too much pressure in my ear, and eventually end up being too painful to use for more than 30 minutes. … [+9017 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Kotaku"
+                },
+                "author": "Ethan Gach",
+                "title": "Sony Tries To Explain Why The PS5 Pro Is So Expensive And Doesn't Come With A Disc Drive - Kotaku",
+                "description": "The upgraded console's controversial sticker price has fans divided",
+                "url": "https://kotaku.com/ps5-pro-price-disc-drive-sony-why-1851657354",
+                "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/b0a1c0ed7c119ee21107066bb1223cb4.png",
+                "publishedAt": "2024-09-25T17:15:00Z",
+                "content": "Everyone expected the long-rumored PlayStation 5 Pro to be expensive, but its $700 price tag still came as a bit of a shock. Could a mid-generation refresh aimed mostly at boosting graphical detail r… [+2282 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "9to5Mac"
+                },
+                "author": "Michael Potuck",
+                "title": "iPhone 16 Pro vs 13 Pro: Full comparison - 9to5Mac",
+                "description": "This in-depth comparison covers iPhone 16 Pro vs 13 Pro when it comes to specs, performance, features, and more.",
+                "url": "https://9to5mac.com/iphone-16-pro-vs-13-pro/",
+                "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/09/iphone-16-pro-vs-13-pro.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+                "publishedAt": "2024-09-25T16:35:00Z",
+                "content": "iPhone 16 Pro and Pro Max are Apples newest, top-tier smartphones. But how much have they improved since 2021? Heres an in-depth look at iPhone 16 Pro vs 13 Pro for everything new and a buyers guide.… [+20205 chars]"
+            }
+        ]
+    }
+}
