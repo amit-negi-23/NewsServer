@@ -220,6 +220,7 @@
             }
         ]
     },
+
     "technology":{
         "status": "ok",
         "totalResults": 18,
@@ -327,6 +328,450 @@
                 "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/09/iphone-16-pro-vs-13-pro.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
                 "publishedAt": "2024-09-25T16:35:00Z",
                 "content": "iPhone 16 Pro and Pro Max are Apples newest, top-tier smartphones. But how much have they improved since 2021? Heres an in-depth look at iPhone 16 Pro vs 13 Pro for everything new and a buyers guide.… [+20205 chars]"
+            }
+        ]
+    },
+
+    "bussiness":{
+        "status": "ok",
+        "totalResults": 56,
+        "articles": [
+            {
+                "source": {
+                    "id": "bloomberg",
+                    "name": "Bloomberg"
+                },
+                "author": null,
+                "title": "China Weighs Injecting $142 Billion of Capital Into Top Banks - Bloomberg",
+                "description": "China is considering injecting up to 1 trillion yuan ($142 billion) of capital into its biggest state banks to increase their capacity to support the struggling economy, according to people familiar with the matter.",
+                "url": "https://www.bloomberg.com/news/articles/2024-09-26/china-weighs-injecting-142-billion-of-capital-into-top-banks",
+                "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i8VmRJeQzfqc/v0/1200x800.jpg",
+                "publishedAt": "2024-09-26T01:56:00Z",
+                "content": "China is considering injecting up to 1 trillion yuan ($142 billion) of capital into its biggest state banks to increase their capacity to support the struggling economy, according to people familiar … [+383 chars]"
+            },
+            {
+                "source": {
+                    "id": "the-washington-post",
+                    "name": "The Washington Post"
+                },
+                "author": "Rachel Roubein, Joe Heim",
+                "title": "10th listeria death tied to Boar’s Head deli meat - The Washington Post",
+                "description": "The CDC also reported two new hospitalizations associated with the nationwide listeria outbreak. In total, 59 people have been hospitalized in 19 states since late May.",
+                "url": "https://www.washingtonpost.com/health/2024/09/25/listeria-death-boars-head-liverwurst/",
+                "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CUDDZAFMEZPS2FPBC52XSOPDVA_size-normalized.jpg&w=1440",
+                "publishedAt": "2024-09-26T01:41:29Z",
+                "content": "A New York residenthas died amid a nationwide listeria outbreak tied to Boars Head deli meat, the Centers for Disease Control and Prevention announced Wednesday, bringing the death toll to 10in the l… [+3089 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "KOMO News"
+                },
+                "author": "Jackie Kent, Gabe Katzman, KOMO News Staff",
+                "title": "Boeing factory workers pressured to prioritize speed over quality: report - KOMO News",
+                "description": "Boeing workers felt a pressure to prioritize production speed over quality, according to the results of a U.S. Senate special investigation released Wednesday.",
+                "url": "https://komonews.com/news/local/faa-boeing-senate-special-investigation-737-max",
+                "urlToImage": "https://komonews.com/resources/media/a246f57d-496d-4ef7-a0e3-c3fe3ecc8110-large16x9_AP24180487050074.jpg",
+                "publishedAt": "2024-09-25T23:57:13Z",
+                "content": "WASHINGTON Boeing workers felt a pressure to prioritize production speed over quality, according to the results of a U.S. Senate Permanent Subcommittee (PSI) special investigation released Wednesday.… [+3914 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "CNBC"
+                },
+                "author": "Lisa Kailai Han",
+                "title": "Dow futures are little changed after index breaks four-day winning run: Live updates - CNBC",
+                "description": "Traders tried to shake off Wednesday's losses as they looked ahead to the latest weekly jobless claims numbers.",
+                "url": "https://www.cnbc.com/2024/09/25/stock-market-today-live-updates.html",
+                "urlToImage": "https://image.cnbcfm.com/api/v1/image/108039087-1727283086006-NYSE_Traders-OB-Photo-ALR-20240925-Press-3.jpg?v=1727297047&w=1920&h=1080",
+                "publishedAt": "2024-09-25T23:26:00Z",
+                "content": "Futures tied to the Dow Jones Industrial Average were little changed on Wednesday night after the index broke a four-day win streak.\r\nDow futures slipped 20 points, or 0.05%. S&amp;P 500 futures rose… [+1955 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Yahoo Entertainment"
+                },
+                "author": "Yahoo Finance",
+                "title": "US data center electricity use expected to jump on AI - Yahoo Finance",
+                "description": "US data centers are expected to use more electricity as training and running artificial intelligence (AI) models is power-intensive. Asking for for a Trend...",
+                "url": "https://finance.yahoo.com/video/us-data-center-electricity-expected-223100483.html/",
+                "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
+                "publishedAt": "2024-09-25T22:31:00Z",
+                "content": "US data centers are expected to use more electricity as training and running artificial intelligence (AI) models is power-intensive. Asking for for a Trend hosts Josh Lipton and Julie Hyman break dow… [+187 chars]"
+            },
+            {
+                "source": {
+                    "id": "reuters",
+                    "name": "Reuters"
+                },
+                "author": "Reuters",
+                "title": "U.S. Steel says arbitration board rules in favor of Nippon Steel's $14.9 billion buyout - Reuters",
+                "description": "U.S. Steel said on Wednesday an arbitration board had ruled in favor of Nippon Steel's $14.9 billion buyout of the company, but that the United Steelworkers union disagreed with the decision.",
+                "url": "https://www.reuters.com/markets/deals/us-steel-says-arbitration-board-rules-favor-nippon-steels-149-bln-buyout-deal-2024-09-25/",
+                "urlToImage": "https://www.reuters.com/resizer/v2/4W4MY6ZZSJOSTI2RBV5XASTCQQ.jpg?auth=161395d5b106b9998a11e9b4e75c4f4019f872373b7630fffa4b719d2fa757b4&height=1005&width=1920&quality=80&smart=true",
+                "publishedAt": "2024-09-25T22:26:08Z",
+                "content": null
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Deadline"
+                },
+                "author": "Nellie Andreeva, Dominic Patten",
+                "title": "Disney Layoffs Underway: Hundreds Of Corporate Staffers Impacted - Deadline",
+                "description": "Disney is in the middle of a new wave of cuts as part of a \"cost-saving initiative,\" sources tell Deadline.",
+                "url": "http://deadline.com/2024/09/disney-layoffs-corporate-1236099769/",
+                "urlToImage": "https://deadline.com/wp-content/uploads/2024/09/Disney-Layoffs.jpg?w=1024",
+                "publishedAt": "2024-09-25T22:21:00Z",
+                "content": "EXCLUSIVE: More layoff news in what already has been a depressing week. Disney is in the middle of a new wave of cuts as part of a “cost-saving initiative,” sources tell Deadline. We hear about 300 o… [+1871 chars]"
+            },
+            {
+                "source": {
+                    "id": "ars-technica",
+                    "name": "Ars Technica"
+                },
+                "author": "Scharon Harding",
+                "title": "Most Amazon workers considering job hunting due to 5-day in-office policy: Poll - Ars Technica",
+                "description": "“My morale for this job is gone ...\"",
+                "url": "https://arstechnica.com/tech-policy/2024/09/91-percent-of-amazon-employees-are-dissatisfied-with-remote-work-ending-poll/",
+                "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2015/10/amazon.1-594x215.jpg",
+                "publishedAt": "2024-09-25T22:15:38Z",
+                "content": "Amazon corporate office building in Sunnyvale, California.\r\n87\r\nAn overwhelming majority of Amazon employees are dissatisfied with Amazon killing remote work and requiring them to be in the office fi… [+4158 chars]"
+            }
+        ]
+    },
+
+    "science":{
+        "status": "ok",
+        "totalResults": 67,
+        "articles": [
+            {
+                "source": {
+                    "id": "cnn",
+                    "name": "CNN"
+                },
+                "author": null,
+                "title": "Elusive orca group hunts dolphins off Chile, new images reveal - CNN",
+                "description": "The Humboldt Current’s orcas have yet to be assigned to an ecotype, and their hunting behavior provides clues about where the mysterious population might belong, researchers say.",
+                "url": "https://www.cnn.com/2024/09/26/science/orcas-new-images-hunting-dolphins/index.html",
+                "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/dsc8295-3.jpg?c=16x9&q=w_800,c_fill",
+                "publishedAt": "2024-09-26T04:00:00Z",
+                "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nIt was an orca-versus-dolphin matchup, and the dolphin… [+7665 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "NDTV News"
+                },
+                "author": "Anjali Thakur",
+                "title": "Watch: NASA Astronaut Tracy Dyson Returns To Earth After 78 Million-Mile Journey In Space - NDTV",
+                "description": "Tracy Dyson spent 184 days in space, completing 2,944 orbits around Earth.",
+                "url": "https://www.ndtv.com/world-news/watch-nasa-astronaut-tracy-dyson-returns-to-earth-after-78-million-mile-journey-in-space-6651844",
+                "urlToImage": "https://c.ndtvimg.com/2024-09/j7tifgko_tracy-dyson_625x300_26_September_24.jpeg",
+                "publishedAt": "2024-09-26T03:32:24Z",
+                "content": "NASA astronaut Tracy Dyson safely returned to Earth in Kazakhstan on Monday, September 23, after travelling 78 million miles in space aboard a Soyuz capsule. Alongside her were Russian cosmonauts Ole… [+2410 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Space.com"
+                },
+                "author": "Sharmila Kuthunur",
+                "title": "Radar images capture snowman-shaped object tumbling past Earth - Space.com",
+                "description": "It never posed a threat, but it did offer us some cool cosmic footage.",
+                "url": "https://www.space.com/radar-images-snowman-asteroid-passes-by-earth",
+                "urlToImage": "https://cdn.mos.cms.futurecdn.net/WhTTv39PiSUNJZoGDLHgA-1200-80.gif",
+                "publishedAt": "2024-09-26T00:02:10Z",
+                "content": "The universe appears to have sent us an early Christmas present: the large asteroid that tumbled safely past Earth last week was, in fact, two asteroids melded into one object that resembles a snowma… [+3849 chars]"
+            },
+            {
+                "source": {
+                    "id": "business-insider",
+                    "name": "Business Insider"
+                },
+                "author": "Jenny McGrath",
+                "title": "Scientists discovered a unique line of Neanderthals and it's helping solve the mystery of humanity's last great extinction - Business Insider",
+                "description": "The genome of a Neanderthal named Thorin suggested he was part of an unknown lineage. He and his community stayed isolated for 50,000 years.",
+                "url": "https://www.businessinsider.com/last-neanderthal-thorin-unique-dna-help-explain-species-extinction-2024-9",
+                "urlToImage": "https://i.insider.com/66f4481ede59ade1a3b48e29?width=1200&format=jpeg",
+                "publishedAt": "2024-09-25T22:41:00Z",
+                "content": null
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "New York Post"
+                },
+                "author": "Alex Mitchell",
+                "title": "DNA from world’s oldest cheese extracted from an unusual source — mummies - New York Post ",
+                "description": "It’s aged — 3,600 years.",
+                "url": "https://nypost.com/2024/09/25/lifestyle/dna-from-worlds-oldest-cheese-extracted-from-an-unusual-source-mummies/",
+                "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/09/mummy-cheese.jpg?quality=75&strip=all&w=1024",
+                "publishedAt": "2024-09-25T22:08:00Z",
+                "content": "It’s aged — 3,600 years.\r\nScientists have successfully pulled a DNA strand from what they believe to be the world’s oldest cheese, yanking it from Bronze Age mummies in a Chinese graveyard, circa 2,0… [+2376 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "VOA News"
+                },
+                "author": "VOA Learning English",
+                "title": "Scientists Find Energy Jets Among the Universe’s Largest Structures - VOA Learning English",
+                "description": "The scientists say the energy jets are shooting out of a single black hole in a distant galaxy. They estimate the jets to be 23 million light years across.",
+                "url": "https://learningenglish.voanews.com/a/scientists-find-energy-jets-among-the-universe-s-largest-structures-/7794926.html",
+                "urlToImage": "https://gdb.voanews.com/d50af00e-c5a9-4342-81cb-cefac8ae9099_cx0_cy9_cw0_w1200_r1.jpg",
+                "publishedAt": "2024-09-25T21:55:00Z",
+                "content": "Scientists say they have found the largest jets of energy ever observed shooting out of a black hole in a distant galaxy.\r\nThe jets extend 23 million light years from end to end. That is about 140 ti… [+3775 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Space.com"
+                },
+                "author": "Keith Cooper",
+                "title": "Weird striped rock 'unlike any seen on Mars' found by Perseverance rover. Here's why NASA's excited - Space.com",
+                "description": "The stripy rocky may be volcanic in origin, but where did it come from?",
+                "url": "https://www.space.com/mars-perseverance-rover-weird-stripy-rock",
+                "urlToImage": "https://cdn.mos.cms.futurecdn.net/JFnxysdVpwTsXm7WGfezfA-1200-80.jpg",
+                "publishedAt": "2024-09-25T20:12:31Z",
+                "content": "A striped rock that looks out of place in its surroundings on the slopes of the inner wall of Jezero crater has scientists excited about what it may reveal about the Red Planet's history.\r\nNASA's Per… [+4494 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Futurism"
+                },
+                "author": "Victor Tangermann",
+                "title": "The Curiosity Mars Rover's Wheel Looks Absolutely Wrecked - Futurism",
+                "description": "The harsh terrain of the Martian surface has done an absolute number on NASA's Curiosity rover's wheels, as a new picture shows.",
+                "url": "https://futurism.com/curiosity-rover-wheel-looks-wrecked",
+                "urlToImage": "https://wordpress-assets.futurism.com/2024/09/curiosity-rover-wheel-looks-wrecked.jpg",
+                "publishedAt": "2024-09-25T20:07:32Z",
+                "content": "Wheel Life\r\nNASA's Curiosity rover has spent over 4,400 Earth days exploring the desolate surface of Mars enough time, by Sam Altman's reckoning, for the emergence of superintelligent AI.\r\nIt set its… [+2770 chars]"
+            }
+        ]
+    },
+
+    "general":{
+        "status": "ok",
+        "totalResults": 37,
+        "articles": [
+            {
+                "source": {
+                    "id": "cnn",
+                    "name": "CNN"
+                },
+                "author": null,
+                "title": "Elusive orca group hunts dolphins off Chile, new images reveal - CNN",
+                "description": "The Humboldt Current’s orcas have yet to be assigned to an ecotype, and their hunting behavior provides clues about where the mysterious population might belong, researchers say.",
+                "url": "https://www.cnn.com/2024/09/26/science/orcas-new-images-hunting-dolphins/index.html",
+                "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/dsc8295-3.jpg?c=16x9&q=w_800,c_fill",
+                "publishedAt": "2024-09-26T04:00:00Z",
+                "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nIt was an orca-versus-dolphin matchup, and the dolphin… [+7665 chars]"
+            },
+            {
+                "source": {
+                    "id": "the-washington-post",
+                    "name": "The Washington Post"
+                },
+                "author": "Francesca Ebel, Natalia Abbakumova, Robyn Dixon, Catherine Belton",
+                "title": "Russia’s nuclear doctrine to include attacks on nonnuclear states - The Washington Post",
+                "description": "Russian President Vladimir Putin said non-nuclear states supported by nuclear ones could face Russia’s nuclear deterrent in an expansion of its policy.",
+                "url": "https://www.washingtonpost.com/world/2024/09/25/putin-nuclear-deterrent-ukraine-threat/",
+                "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IVNF7AY2OCKWJWKWZ2WSFBNDGE.JPG&w=1440",
+                "publishedAt": "2024-09-26T03:48:44Z",
+                "content": "Russian President Vladimir Putin made a fresh nuclear threat against the West and Ukraine on Wednesday, indicating that any nations conventional attack on Russia that was supported by a nuclear power… [+6857 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Yahoo Entertainment"
+                },
+                "author": "Ryan Young",
+                "title": "WNBA playoffs: Sun fend off Caitlin Clark, Fever to reach semifinals and end her rookie season - Yahoo Sports",
+                "description": "Caitlin Clark's rookie campaign in the WNBA is now over.",
+                "url": "https://sports.yahoo.com/live/wnba-playoffs-sun-fend-off-caitlin-clark-fever-to-reach-semifinals-and-end-her-rookie-season-222937842.html",
+                "urlToImage": "https://s.yimg.com/ny/api/res/1.2/IZYNpbC9EvuENlia6oex2Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03Mzc-/https://s.yimg.com/os/creatr-uploaded-images/2024-09/e3581bb0-7ba4-11ef-8bad-8a76ff3e87fa",
+                "publishedAt": "2024-09-26T02:22:00Z",
+                "content": "Caitlin Clark's rookie campaign in the WNBA is now over. (Joe Buglewicz/Getty Images)\r\nCaitlin Clarks rookie season is now over.\r\nAlyssa Thomas and the Connecticut Sun closed out their opening-round … [+5486 chars]"
+            },
+            {
+                "source": {
+                    "id": "cnn",
+                    "name": "CNN"
+                },
+                "author": "Kevin Liptak, Alex Marquardt, Natasha Bertrand, Jennifer Hansler, MJ Lee",
+                "title": "US and allies call for 21-day ceasefire across Israel-Lebanon border - CNN",
+                "description": "The United States and 10 of its allies called Wednesday for a 21-day ceasefire across the Israel-Lebanon border as they work to prevent a regional war from erupting.",
+                "url": "https://www.cnn.com/2024/09/25/politics/us-plan-mediate-israel-hezbollah-ceasefire/index.html",
+                "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap24269385602186-20240925143209154-20240925143224311.jpg?c=16x9&q=w_800,c_fill",
+                "publishedAt": "2024-09-26T01:50:00Z",
+                "content": "The United States and several of its allies called Wednesday for a 21-day ceasefire between Israel and Hezbollah across the Israel-Lebanon border as they work to prevent a regional war from erupting.… [+9700 chars]"
+            },
+            {
+                "source": {
+                    "id": "the-hill",
+                    "name": "The Hill"
+                },
+                "author": "Alex Gangitano",
+                "title": "5 takeaways from Harris’s MSNBC interview with Stephanie Ruhle - The Hill",
+                "description": "Vice President Harris sat down with MSNBC’s Stephanie Ruhle on Wednesday, during which she fielded questions on her economic agenda, former President Trump’s economic plans, and her running mate, Minnesota Gov. Tim Walz (D). The interview on MSNBC was a frien…",
+                "url": "https://thehill.com/homenews/administration/4900063-kamala-harris-stephanie-ruhle-interview-takeaways/",
+                "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2024/09/harris_pittsburgh_economicclub_092524.jpg?w=1280",
+                "publishedAt": "2024-09-26T01:07:00Z",
+                "content": "Skip to content\r\nVice President Harris sat down with MSNBC’s Stephanie Ruhle on Wednesday, during which she fielded questions on her economic agenda, former President Trump’s economic plans, and her … [+5732 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "CNBC"
+                },
+                "author": "Reuters",
+                "title": "Russia has secret war drones project in China, intel sources say in Reuters report - CNBC",
+                "description": "Russia has weapons program in China to manufacture long-range attack drones for the Ukraine war, according to European intelligence as reviewed by Reuters.",
+                "url": "https://www.cnbc.com/2024/09/26/russia-has-secret-war-drones-project-in-china-intel-sources-say-in-reuters-report.html",
+                "urlToImage": "https://image.cnbcfm.com/api/v1/image/108039367-1727311091333-gettyimages-1395005913-chinarussiawsilk.jpeg?v=1727311141&w=1920&h=1080",
+                "publishedAt": "2024-09-26T01:03:00Z",
+                "content": "Flags of the People's Republic of China and the Russian Federation\r\nRussia has established a weapons program in China to develop and produce long-range attack drones for use in the war against Ukrain… [+8701 chars]"
+            },
+            {
+                "source": {
+                    "id": "cbs-news",
+                    "name": "CBS News"
+                },
+                "author": "Kerry Breen",
+                "title": "Maps show track of Hurricane Helene: What to know about possible paths and storm surge - CBS News",
+                "description": "Maps show possible storm surge, rainfall levels and more as Hurricane Helene makes its way north toward Florida's Gulf Coast.",
+                "url": "https://www.cbsnews.com/news/tropical-storm-helene-hurricane-path-maps-track-forecast/",
+                "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/09/25/bc605e6b-784f-4ac3-8134-ed46f00042f3/thumbnail/1200x630/a411a682e93e15f071dd064d339e0744/helene-cone.png?v=05e1d8b62a2ebbf0c759b67223fa87f8",
+                "publishedAt": "2024-09-26T00:54:45Z",
+                "content": "Helene intensified from a tropical storm to a hurricane on Wednesday morning and is forecast to strike Florida's Gulf Coast, likely in the Big Bend area, as a major hurricane this week.\r\nHurricane He… [+3798 chars]"
+            },
+            {
+                "source": {
+                    "id": "the-washington-post",
+                    "name": "The Washington Post"
+                },
+                "author": "Adrián Blanco, Chris Alcantara",
+                "title": "How every senator voted on the stopgap bill to avert a government shutdown - The Washington Post",
+                "description": "The Senate approved the funding measure on Wednesday 78 to 18. See how your senators voted.",
+                "url": "https://www.washingtonpost.com/politics/interactive/2024/09/25/senate-vote-results-government-shutdown-bill-cr/",
+                "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EU4LQCYM7VBA7LTNJQQQ4NJZCA.jpg&w=1200",
+                "publishedAt": "2024-09-26T00:23:01Z",
+                "content": "The Senate passed a bill Wednesday evening, 78 to 18, to extend federal funding at current rates until Dec. 20.\r\nThe House approved the measure earlier Wednesday, 341 to 82, with Republicans relying … [+567 chars]"
+            }
+        ]
+    },
+
+    "entertainment":{
+        "status": "ok",
+        "totalResults": 42,
+        "articles": [
+            {
+                "source": {
+                    "id": null,
+                    "name": "Cageside Seats"
+                },
+                "author": "Sean Rueter",
+                "title": "Janel Grant’s attorney: Netflix doc doesn’t tell full story of Vince’s crimes - Cageside Seats",
+                "description": "Ann Callis also says ‘Mr. McMahon’ again demonstrates that the disgraced WWE Chairman and his on-screen character are one in the same.",
+                "url": "https://www.cagesideseats.com/wwe/2024/9/25/24254782/janel-grant-attorney-netflix-doc-mr-mcmahon-only-scratches-surface-of-vince-depravity-abuse-crimes",
+                "urlToImage": "https://cdn.vox-cdn.com/thumbor/Tnp7qMuW5DhkKFgPxTAe6FC44fM=/0x112:960x615/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25642892/GWKTznMWYAAlsWl.jpg",
+                "publishedAt": "2024-09-26T03:54:33Z",
+                "content": "Ann Callis, the lawyer representing former WWE employee Janel Grant in her sex trafficking suit against Vince McMahon, John Laurinaitis, and WWE, issued a statement on Netflixs documentary series Mr.… [+1330 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "TVLine"
+                },
+                "author": "Kimberly Roots",
+                "title": "Grotesquerie Premiere Recap: Was Ryan Murphy’s Latest Horror Show Even Scarier Than AHS? Grade It! - TVLine",
+                "description": "'Grotesquerie' premiere recap: Find out what happens in Season 1, Episode 1 of FX's new horror series.",
+                "url": "https://tvline.com/recaps/grotesquerie-season-1-premiere-recap-episode-1-fx-1235339752/",
+                "urlToImage": "https://tvline.com/wp-content/uploads/2024/09/grotesquerie-season-1-premiere-recap-episode-1-fx.jpg?w=650",
+                "publishedAt": "2024-09-26T03:00:07Z",
+                "content": "Ryan Murphy’s new horror story — but not that horror story — got underway Wednesday night. But did the fear auteur’s latest series put a shiver in your quiver like the trailer promised? \r\nRead on for… [+5646 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "TVLine"
+                },
+                "author": "Vlada Gelman",
+                "title": "Chicago P.D. Season 12 Kicks Off With a Deadly Twist — Grade the Premiere! - TVLine",
+                "description": "'Chicago PD' opened Season 12 with a new team member and a surprise twist -- read our premiere recap!",
+                "url": "https://tvline.com/recaps/chicago-pd-season-12-premiere-recap-new-detective-dies-1235339329/",
+                "urlToImage": "https://tvline.com/wp-content/uploads/2024/09/chicago-pd-recap.jpg?w=650",
+                "publishedAt": "2024-09-26T02:59:00Z",
+                "content": "If you tuned into Chicago P.D.’s Season 12 premiere, expecting to be introduced to new series regular Toya Turner as Officer Kiana Cook (or to see Kim Burgess, for that matter), then you were probabl… [+2402 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Eonline.com"
+                },
+                "author": null,
+                "title": "Kendall Jenner Frees the Nipple During Night Out With Gigi Hadid for Rosalía’s Birthday Party - E! NEWS",
+                "description": "Kendall Jenner bared her nipples in a see-through while partying with pals Gigi Hadid and Fai Khadra at Rosalía’s 32nd birthday bash in Paris.",
+                "url": "https://www.eonline.com/news/1407829/kendall-jenner-frees-the-nipple-during-night-out-with-gigi-hadid-for-rosalias-birthday-party",
+                "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2024825/cr_1200x1200-240925191624-BLU_A98751913.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+                "publishedAt": "2024-09-26T02:57:00Z",
+                "content": "Kendall Jenner is proving that blondes have more fun in her own style.\r\nTwo weeks after ditching her signature dark brown hair for golden tresses, the model freed the nipple in a see-through dress du… [+807 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "TVLine"
+                },
+                "author": "Vlada Gelman",
+                "title": "Chicago Med Season 10 Premiere Brings New Hires, Breakups and a Surprise Firing — Grade It! - TVLine",
+                "description": "'Chicago Med' kicks off Season 10 with two new doctors, a surprise firing and more than one breakup -- read our premiere recap!",
+                "url": "https://tvline.com/recaps/chicago-med-season-10-premiere-recap-zach-hudgins-fired-1235339322/",
+                "urlToImage": "https://tvline.com/wp-content/uploads/2024/09/chicago-med-recap.jpg?w=650",
+                "publishedAt": "2024-09-26T00:59:00Z",
+                "content": "Chicago Med‘s new recruit, Dr. Caitlin Lenox (series regular Sarah Ramos), didn’t waste any time ruffling feathers at the hospital in the Season 10 premiere.\r\nWhen a mass-casualty accident brings an … [+3094 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Eonline.com"
+                },
+                "author": null,
+                "title": "Cardi B Debuts New Look in First Public Appearance Since Giving Birth to Baby No. 3 - E! NEWS",
+                "description": "Cardi B—who welcomed baby No. 3 with estranged husband Offset earlier this month—debuted a stunning copper hair look while attending Paris Fashion Week's Rabanne RTW Spring 2025 show on Sept. 25.",
+                "url": "https://www.eonline.com/news/1407824/cardi-b-debuts-new-look-in-first-public-appearance-since-giving-birth-to-baby-no-3",
+                "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2024825/cr_1200x1200-240925155105-GettyImages-2158688483.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+                "publishedAt": "2024-09-26T00:01:00Z",
+                "content": "Cardi B is making style moves. \r\nThe \"Bodak Yellow\" rapper made her first public appearance since welcoming baby No. 3 with estranged husband Offset by stepping out at Paris Fashion Week on Sept. 25,… [+816 chars]"
+            },
+            {
+                "source": {
+                    "id": "the-washington-post",
+                    "name": "The Washington Post"
+                },
+                "author": "Kyle Melnick",
+                "title": "Singer Chappell Roan says she’ll vote for Harris but won’t endorse her - The Washington Post",
+                "description": "Singer Chappell Roan said she will vote for Kamala Harris but won’t “settle” by endorsing her after receiving backlash for an interview with the Guardian.",
+                "url": "https://www.washingtonpost.com/elections/2024/09/25/chappell-roan-endorsement-election-politics/",
+                "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HWZHFBS76VFYXHQX3NFDKU3R6A.JPG&w=1440",
+                "publishedAt": "2024-09-25T23:54:45Z",
+                "content": "Amid onlinebacklash over her recent criticism of the Democratic and Republican parties ahead of the presidential election, singer Chappell Roan said on TikTok on Wednesday that shell vote for Vice Pr… [+3994 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Hollywood Reporter"
+                },
+                "author": "Lily Ford",
+                "title": "“Hollywood Needs Johnny Depp”: ‘Modi’ Castmembers Urge Industry to Love Their Director Again - Hollywood Reporter",
+                "description": "As Depp's latest film debuts at the San Sebastian Film Festival, his cast is nothing but complimentary of the once-beloved star: \"He's the nicest, the kindness, the sweetest man I've ever worked with in my life.\"",
+                "url": "http://www.hollywoodreporter.com/movies/movie-news/hollywood-johnny-depp-modi-san-sebastian-film-festival-al-pacino-1236010480/",
+                "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2024/09/FotoJet-2024-09-24T213050.317.jpg?w=1440&h=810&crop=1",
+                "publishedAt": "2024-09-25T23:20:45Z",
+                "content": "Johnny Depp has had, it’s fair to say, a rocky few years in Hollywood.\r\nAfter a public divorce and subsequent defamation trial involving ex-wife Amber Heard — with claims of domestic violence and ext… [+14787 chars]"
             }
         ]
     }
